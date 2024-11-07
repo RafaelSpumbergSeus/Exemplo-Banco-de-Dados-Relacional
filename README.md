@@ -1,5 +1,5 @@
 # Esquema de Banco de Dados Relacional
-# Trabalho realizado para a cadeira de Banco de Dados II
+Trabalho realizado para a cadeira de Banco de Dados II
 Este projeto define um esquema de banco de dados relacional para gerenciamento de clientes, incluindo informações específicas para pessoas físicas e jurídicas. Abaixo estão as tabelas principais, suas colunas e os relacionamentos definidos entre elas.
 
 Tabelas
